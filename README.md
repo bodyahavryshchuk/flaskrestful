@@ -23,6 +23,8 @@ Installation:
 1 Clone the repository
 ```java
 git clone https://github.com/bodyahavryshchuk/flaskrestful
+
+cd flaskrestful
 ```
 2 Up the project
 ```java
